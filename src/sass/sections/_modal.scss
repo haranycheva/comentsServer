@@ -1,0 +1,38 @@
+.is-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+.back-modal-my{
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(7, 34, 47, 0.7);
+    z-index: 2;
+}
+
+.modal-my{
+    position: relative;
+    overflow: auto;
+    background-color: #ffffff;
+    width: 400px;
+    height: 250px;
+    padding-top: 25px;
+    padding-right: 7px;
+    padding-left: 15px;
+    padding-bottom: 30px;
+}
