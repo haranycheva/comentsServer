@@ -5,7 +5,7 @@
   "homepage": "https://haranycheva.github.io/comentsServer",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-template/",
+    "build": "parcel build src/*.html --public-url /comentsServer/",
     "server": "json-server --watch db.json"
   },
   "repository": {
