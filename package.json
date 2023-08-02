@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/haranycheva/comentsServer.git",
+  "homepage": "https://haranycheva.github.io/comentsServer",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-template/",
@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/haranycheva/comentsServer.git"
+    "url": "https://github.com/haranycheva/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
