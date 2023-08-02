@@ -13,3 +13,5 @@ export function addComment(){
     refs.commentList.insertAdjacentHTML("beforeend", newCommentCard)
     fetchComment(newComment, "POST")
 }
+
+// ироирорио
